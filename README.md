@@ -1,1 +1,1 @@
-An eager Frontend Engineer with 5+ years of experience building accessible, scalable, user-centric web applications using TypeScript and modern JS frameworks with a focus on reactive programming. I thrive on solving complex challenges through clean architecture, thoughtful collaboration, and impactful user experience
+Adaptable Frontend Engineer with 5+ years of experience building scalable web applications using TypeScript along with modern JS frameworks, and solving complex challenges through clean architecture and effective collaboration
